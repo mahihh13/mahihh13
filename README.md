@@ -12,21 +12,21 @@
 
 # 📊 GitHub Stats:
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=Mahi130306&theme=dark&hide_border=false&include_all_commits=false&count_private=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api?username=Mahi130306&theme=default&hide_border=false&include_all_commits=false&count_private=true" />
-  <img src="https://github-readme-stats.shion.dev/api?username=Mahi130306&theme=default&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=mahihh13&theme=dark&hide_border=false&include_all_commits=false&count_private=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api?username=mahihh13&theme=default&hide_border=false&include_all_commits=false&count_private=true" />
+  <img src="https://github-readme-stats.shion.dev/api?username=mahihh13&theme=default&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" />
 </picture>
 <br/>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Mahi130306&theme=dark&hide_border=false" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Mahi130306&theme=default&hide_border=false" />
-  <img src="https://streak-stats.demolab.com/?user=Mahi130306&theme=default&hide_border=false" alt="GitHub Streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=mahihh13&theme=dark&hide_border=false" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=mahihh13&theme=default&hide_border=false" />
+  <img src="https://streak-stats.demolab.com/?user=mahihh13&theme=default&hide_border=false" alt="GitHub Streak" />
 </picture>
 <br/>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=Mahi130306&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=Mahi130306&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Mahi130306&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=mahihh13&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=mahihh13&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mahihh13&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
 </picture>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
